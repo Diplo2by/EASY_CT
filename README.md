@@ -15,5 +15,6 @@ An EasyOCR based solution to recognise chinese characters by team Caffeine theor
 
 ## Accuracy Levels
 
-![alt text](images/fig1.png)
+![Accuracy](images/fig1.png)
+![Raw_Image v/s Preprocessed_Image](images/fig2.png)
 
