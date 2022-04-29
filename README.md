@@ -4,9 +4,9 @@
 
 An EasyOCR based solution to recognise chinese characters by team Caffeine theory.
 
-![Hanzi handwritten Data set](https://www.kaggle.com/datasets/pascalbliem/handwritten-chinese-character-hanzi-datasets)
-![CASIA Data set](http://www.nlpr.ia.ac.cn/databases/handwriting/Online_database.html)
-![MNIST DATASET](https://www.kaggle.com/datasets/gpreda/chinese-mnist)
+Hanzi handwritten Data set https://www.kaggle.com/datasets/pascalbliem/handwritten-chinese-character-hanzi-datasets
+CASIA Data set http://www.nlpr.ia.ac.cn/databases/handwriting/Online_database.html
+MNIST DATASET https://www.kaggle.com/datasets/gpreda/chinese-mnist
 
 ## Tech Stack
 
